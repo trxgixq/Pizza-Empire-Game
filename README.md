@@ -29,3 +29,5 @@ Confirm your choice when the warning appears again.
 
 You should then be able to open the game normally.
 
+
+(This is my first game make sure to give harsh reviews and ideas to make the game better!)
