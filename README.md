@@ -2,9 +2,8 @@ Pizza Empire 🍕
 
 Build your own pizza empire, from your first pizza shop to a worldwide chain!
 
-[**⬇️ Download Pizza Empire for Mac**](https://github.com/trxgixq/Pizza-Empire-Game/archive/refs/tags/v1.0.0.zip)
+[**⬇️ Download Pizza Empire for Mac**](https://github.com/trxgixq/Pizza-Empire-Game/archive/refs/tags/V1.0.4.zip)
 
-[**⬇️ Download Pizza Empire for Windows**](https://github.com/trxgixq/Pizza-Empire-Game/archive/refs/tags/V1.0.3.zip)
 
 If your Mac asks “Are you sure you want to open it?”
 
